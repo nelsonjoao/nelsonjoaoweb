@@ -1,0 +1,30 @@
+.box-radius
+    {
+        border: 4px solid white;
+        border-radius: 15px;
+    }
+
+    .back-azul-claro
+    {
+        background-color:  rgb(130, 213, 216);
+    }
+
+    .back-azul
+    {
+        background-color:   rgb(10, 194, 201);
+    }
+
+    .back-gainsboro{
+        background-color: gainsboro;
+    }
+
+    .bg-roxo{
+        background-color:rgb(71, 226, 231);
+    }
+
+    .altera-imagem img:hover{
+        -webkit-filter: grayscale(20%);
+        transform: scale(1.15);
+    }
+	
+	
